@@ -1,4 +1,4 @@
-# Algorithm_Practice
+# Algorithm Practice
 Practice of algorithms and data structures
 * Sorting
 * Searching
